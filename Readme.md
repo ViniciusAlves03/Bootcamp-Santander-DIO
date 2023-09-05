@@ -5,7 +5,7 @@ Esse repositório foi criado com a intenção de armazenar os projetos e ativida
 
 # Do que se trata ?
 
-O Bootcamp é uma iniciativa do [Santander](https://app.becas-santander.com/pt/program/search) em parceria com a [Digital Innovation One](https://www.dio.me/), que visa difundir o conhecimento em programção para pessoas interessadas.
+O Bootcamp é uma iniciativa do [Santander](https://app.becas-santander.com/pt/program/search) em parceria com a [Digital Innovation One](https://www.dio.me/), que visa difundir o conhecimento em programação para pessoas interessadas.
 
 # Tecnologias abordadas !
 
